@@ -51,7 +51,7 @@ Screenshots of the project
 ![Capture4](https://github.com/user-attachments/assets/e25f9f92-4948-430d-9aa1-188d9da3173a)
 
 ## Team details
-<b>Team Number: </b><p>25AACL03</p> <b>Senior Mentor:</b><p> Meghana</p> <b>Junior Mentor:</b><p> Lahari</p> <b>Team Member 1:</b><p> S L P Srinishpa Gandhalu</p> <b>Team Member 2:</b><p> Varnika Mishra</p>
+<b>Team Number: </b><p>25AACL03</p> <b>Senior Mentor:</b><p> Meghana</p> <b>Junior Mentor:</b><p> Lahari</p> <b>Team Member 1:</b><p> Varnika Mishra</p> <b>Team Member 2:</b><p> S L P Srinishpa Gandhalu</p>
 
 ## Contribution 
 This section provides instructions and details on how to submit a contribution via a pull request. It is important to follow these guidelines to make sure your pull request is accepted.
@@ -68,5 +68,6 @@ This section provides instructions and details on how to submit a contribution v
 3. Improved OCR Error Handling: Introduce conditional image processing (e.g., dynamic contrast adjustment) specifically on failed OCR regions to enhance text extraction from poor-quality images.
 4. Code Assistant Features: Add context-aware capabilities to the chat assistant, such as suggesting unit tests based on the extracted flowchart logic.
 5. Webcam Stabilization: Enhance the live camera input feature to include image stabilization or capture multiple frames to improve clarity for detection and OCR.
+
 
 
