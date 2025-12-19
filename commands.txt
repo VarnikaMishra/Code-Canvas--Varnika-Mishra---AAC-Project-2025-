@@ -1,0 +1,6 @@
+cd C:\Users\<YourUser>\Desktop\CodeCanvas_App
+
+.\.venv\Scripts\activate
+
+streamlit run Home.py
+str
